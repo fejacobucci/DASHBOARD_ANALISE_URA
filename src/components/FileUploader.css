@@ -1,0 +1,111 @@
+.file-uploader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+  padding: 2rem;
+}
+
+.file-uploader-dropzone {
+  border: 3px dashed #2dd4bf;
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  max-width: 600px;
+  width: 100%;
+}
+
+.file-uploader-dropzone:hover {
+  border-color: #14b8a6;
+  background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(45, 212, 191, 0.2);
+}
+
+.upload-icon {
+  color: #2dd4bf;
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: center;
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.file-uploader-dropzone h3 {
+  color: #f1f5f9;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.file-uploader-dropzone p {
+  color: #94a3b8;
+  margin-bottom: 0.5rem;
+}
+
+.file-format {
+  font-size: 0.875rem;
+  color: #64748b;
+  font-style: italic;
+}
+
+.upload-info {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: rgba(45, 212, 191, 0.1);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #2dd4bf;
+  font-size: 0.875rem;
+}
+
+.upload-info svg {
+  flex-shrink: 0;
+}
+
+/* Light Theme */
+body.light-theme .file-uploader-dropzone {
+  border: 3px dashed #0891b2;
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+body.light-theme .file-uploader-dropzone:hover {
+  border-color: #0e7490;
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+  box-shadow: 0 8px 24px rgba(8, 145, 178, 0.15);
+}
+
+body.light-theme .upload-icon {
+  color: #0891b2;
+}
+
+body.light-theme .file-uploader-dropzone h3 {
+  color: #0f172a;
+}
+
+body.light-theme .file-uploader-dropzone p {
+  color: #475569;
+}
+
+body.light-theme .file-format {
+  color: #64748b;
+}
+
+body.light-theme .upload-info {
+  background: rgba(8, 145, 178, 0.1);
+  color: #0891b2;
+}

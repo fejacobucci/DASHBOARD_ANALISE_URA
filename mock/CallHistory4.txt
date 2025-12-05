@@ -1,0 +1,41 @@
+Detalhes do Contato
+ID	688670567672	ID Mestre	688670567672
+Média	Telefone	DNIS	+551180042743
+Competência	SAC_DEC_CONSORCIO	ANI	+5511997687031 (Land Line)
+Agente	F4420596 NANCY YUMIE REAL HAMADA	Desvio Padrão	28/11/2025 10:59:53
+Time	Consorcio	Duração	5:54
+Controlado Por		Hora do Controle	
+Motivo de Finalização do Contato.	Contato desligou	Disposição Primária	
+Disposição Adicional		Comentários da Disposição	
+Etiquetas	
+
+Duração do Contato
+Transcrição
+Gravação CXone
+Variáveis Publicadas
+trilha de botões a pressionar para contato
+Nome	Valor
+cod_identificacao_ligacao	688670567672
+data_hora_inicio_ligacao	 
+event_name_1	inicio_chamada|saudacao_inicial|validacao|direcionamento_fluxo|inicio_identificacao|origem_sac|digitou_cpf|cpf_cnpj_valido|pf_pj|cpf_cnpj_valido|pf_pj|direcionamento_fluxo| inicio_menu|menu_principal|direcionamento_fluxo|inicio_menu|protocolo_aberto|perfil_cliente|chamada_api|sucesso_api|chamada_api|sucesso_api|verbaliza_protocolo|chamada_api|repeticao_protocolo|
+event_name_2	encaminhado_transferencia_humano|transfere_operacao|
+fluxo_1	Inicio_Sac_Consorcio|Menu_Identificacao_Cliente|Inicio_Sac_Consorcio|Menu_Principal|Protocolo|Menu_Principal|Transfere_Operador|
+id_ura	16
+indicador_1	Transfere_operacao
+input_1	||||||31206529890|31206529890|31206529890|31206529890|31206529890|||2||||||||||||||
+nav_ponto_ponto_1	sim|digitou CPF ou CNPJ|sim|pessoa física|sim|pessoa física|OUTROS ASSUNTOS|SUCESSO API|VERBALIZA PROTOCOLO|
+nome_ura	Sac_Consorcio
+ponto_1	10001|10501|11001|12001|10002|11041|11069|11004|11012|11004|11012|12002|10005|14002|12004|10041|11061|11062|11537|11539|11543|11544|11064|11546|11067|18002|18002|
+ponto_origem_1	|Inicio_Sac_Consorcio||||Menu_Identificacao_Cliente|||||||||||Protocolo||||||||||Menu_Principal|
+produto_1	Sac_Consorcio
+qtd_duracao_em_segundos	355
+range_1	10000|10500|11000|12000|10000|11000|11000|11000|11000|11000|11000|12000|10000|14000|12000|10000|11000|11000|11500|11500|11500|11500|11000|11500|11000|18000|18000|
+tag_roteamento_1	Tipo_Servico:OD_CONSORCIO_SAC_DECRETO|Workflow:CONSORCIO|Skill_Principal:25166207|Horario:Aberto|Chave_Emergencia:Desligado|Callback_Emergencia:Desligado|Lista_Restricao:Nao_encontrado|Prioridade:OD_CONSORCIO_SAC_DECRETO:500:599|Prioridade_Transfer:200:399|Balanceamento_EPS:Desligado|Auto_Dist:Desligado|Expansao_Basica:Desligado|Agendamento_Regra:Fora
+tag_roteamento_2	Callback:Desligado|Transbordo_Sem_Agente:Nao_Elegivel|Skill_Direcionada:25166207
+tentativa_1	|||||||||||||||||||||||||||
+timestamp_1	28/11/2025 10:59:54|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:19|28/11/2025 11:00:19|28/11/2025 11:00:19|28/11/2025 11:00:27|28/11/2025 11:00:27|28/11/2025 11:00:30|28/11/2025 11:00:30|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:43|
+timestamp_2	28/11/2025 11:00:43|28/11/2025 11:00:43|28/11/2025 11:00:43|28/11/2025 11:00:43|28/11/2025 11:00:58|28/11/2025 11:01:09|28/11/2025 11:01:09|28/11/2025 11:01:14|
+tipo_servico	OD_CONSORCIO_SAC_DECRETO
+ultimo_ponto_1	18002
+validacao_1	Topo_Sac_Decreto_Consorcio|~\PROD\AUDIO\SAC\SAC_CONSORCIO\audio_sac_consorcio_saudacao_dia.wav|Audio_Inicial_Habilitado|Identificacao_Cliente|Inicio_Sac_Consorcio|Sim|Else|Valido|Pessoa_Fisica|Valido|Pessoa_Fisica|Menu_Principal||Outros_Assuntos|Protocolo|Menu_Principal|Sem_Protocolo|Cliente|SUCESSO|Sucesso|SUCESSO|Sucesso|Verbaliza||Silencio|OD_CONSORCIO_SAC_DECRETO|
+validacao_2	OD_CONSORCIO_SAC_DECRETO|

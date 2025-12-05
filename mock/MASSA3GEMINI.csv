@@ -1,0 +1,248 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID_Chamada,DataHora_Passo,ID_Cliente,Tipo_Servico,Etapa_URA,Descricao_Passo,Duracao_Passo_s,Status_Conclusao\
+100001,2025-12-01 09:01:15,101,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100001,2025-12-01 09:01:20,101,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,8,CONTINUA\
+100001,2025-12-01 09:01:28,101,SEGURO,3,Auto: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100002,2025-12-01 09:02:40,102,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100002,2025-12-01 09:02:44,102,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100003,2025-12-01 09:04:10,103,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100003,2025-12-01 09:04:15,103,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100003,2025-12-01 09:04:22,103,SEGURO,3,Residencial: Op\'e7\'e3o 3 - D\'favidas/Ap\'f3lice,15,TRANSFERIDO\
+100004,2025-12-01 09:06:00,104,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100004,2025-12-01 09:06:04,104,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100005,2025-12-01 09:07:30,105,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100005,2025-12-01 09:07:35,105,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100005,2025-12-01 09:07:43,105,SEGURO,3,Vida: Op\'e7\'e3o 2 - Resgate,11,DESISTENCIA\
+100006,2025-12-01 09:09:00,106,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100006,2025-12-01 09:09:05,106,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100007,2025-12-01 09:10:20,107,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100007,2025-12-01 09:10:24,107,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100007,2025-12-01 09:10:33,107,SEGURO,3,Auto: Op\'e7\'e3o 2 - 2\'aa Via Boleto,14,CONCLUIDO\
+100008,2025-12-01 09:12:00,108,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100008,2025-12-01 09:12:05,108,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100009,2025-12-01 09:13:30,109,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100010,2025-12-01 09:15:00,110,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100010,2025-12-01 09:15:06,110,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,7,CONTINUA\
+100010,2025-12-01 09:15:13,110,SEGURO,3,Auto: Op\'e7\'e3o 1 - Sinistro/Abertura,10,TRANSFERIDO\
+100011,2025-12-01 09:16:30,111,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100011,2025-12-01 09:16:34,111,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 3 - Falta de Combust\'edvel,9,CONCLUIDO\
+100012,2025-12-01 09:18:00,112,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100012,2025-12-01 09:18:05,112,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100012,2025-12-01 09:18:13,112,SEGURO,3,Viagem: Op\'e7\'e3o 1 - Emerg\'eancia M\'e9dica,13,TRANSFERIDO\
+100013,2025-12-01 10:45:00,113,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100013,2025-12-01 10:45:04,113,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100014,2025-12-01 10:46:30,114,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100014,2025-12-01 10:46:35,114,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100014,2025-12-01 10:46:42,114,SEGURO,3,Residencial: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100015,2025-12-01 12:15:00,115,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100015,2025-12-01 12:15:04,115,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100016,2025-12-01 13:50:00,116,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100016,2025-12-01 13:50:06,116,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100016,2025-12-01 13:50:14,116,SEGURO,3,Vida: Op\'e7\'e3o 1 - Coberturas,14,CONCLUIDO\
+100017,2025-12-01 15:25:00,117,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100017,2025-12-01 15:25:05,117,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100018,2025-12-01 17:00:00,118,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100018,2025-12-01 17:00:05,118,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100018,2025-12-01 17:00:14,118,SEGURO,3,Auto: Op\'e7\'e3o 3 - Cancelamento/2\'aa Via,13,DESISTENCIA\
+100019,2025-12-01 18:40:00,119,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100019,2025-12-01 18:40:04,119,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100020,2025-12-01 20:15:00,120,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100021,2025-12-02 08:30:00,121,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100021,2025-12-02 08:30:05,121,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100022,2025-12-02 08:31:30,122,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100022,2025-12-02 08:31:34,122,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100022,2025-12-02 08:31:43,122,SEGURO,3,Auto: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100023,2025-12-02 08:33:00,123,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100023,2025-12-02 08:33:04,123,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100024,2025-12-02 08:34:30,124,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100024,2025-12-02 08:34:35,124,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100024,2025-12-02 08:34:42,124,SEGURO,3,Residencial: Op\'e7\'e3o 2 - D\'favidas Financeiras,11,CONCLUIDO\
+100025,2025-12-02 08:36:00,125,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100025,2025-12-02 08:36:05,125,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100026,2025-12-02 08:37:30,126,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100026,2025-12-02 08:37:36,126,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100026,2025-12-02 08:37:44,126,SEGURO,3,Vida: Op\'e7\'e3o 3 - Extrato,9,DESISTENCIA\
+100027,2025-12-02 08:39:00,127,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100027,2025-12-02 08:39:04,127,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 3 - Falta de Combust\'edvel,9,CONCLUIDO\
+100028,2025-12-02 08:40:30,128,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100028,2025-12-02 08:40:35,128,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100028,2025-12-02 08:40:43,128,SEGURO,3,Viagem: Op\'e7\'e3o 2 - Cobertura Bagagem,10,CONCLUIDO\
+100029,2025-12-02 08:42:00,129,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100029,2025-12-02 08:42:05,129,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100030,2025-12-02 08:43:30,130,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100031,2025-12-02 11:55:00,131,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100031,2025-12-02 11:55:04,131,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100032,2025-12-02 11:56:30,132,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100032,2025-12-02 11:56:35,132,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100032,2025-12-02 11:56:44,132,SEGURO,3,Auto: Op\'e7\'e3o 2 - 2\'aa Via Boleto,14,CONCLUIDO\
+100033,2025-12-02 13:40:00,133,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100033,2025-12-02 13:40:05,133,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100034,2025-12-02 15:20:00,134,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100034,2025-12-02 15:20:04,134,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100034,2025-12-02 15:20:11,134,SEGURO,3,Residencial: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100035,2025-12-02 17:05:00,135,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100035,2025-12-02 17:05:04,135,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100036,2025-12-02 18:50:00,136,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100036,2025-12-02 18:50:06,136,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100036,2025-12-02 18:50:14,136,SEGURO,3,Vida: Op\'e7\'e3o 2 - Resgate,11,DESISTENCIA\
+100037,2025-12-02 20:30:00,137,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100037,2025-12-02 20:30:05,137,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100038,2025-12-02 22:15:00,138,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100039,2025-12-03 07:50:00,139,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100039,2025-12-03 07:50:04,139,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 3 - Falta de Combust\'edvel,9,CONCLUIDO\
+100040,2025-12-03 07:51:30,140,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100040,2025-12-03 07:51:35,140,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100040,2025-12-03 07:51:43,140,SEGURO,3,Viagem: Op\'e7\'e3o 1 - Emerg\'eancia M\'e9dica,13,TRANSFERIDO\
+100041,2025-12-03 07:53:00,141,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100041,2025-12-03 07:53:05,141,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100042,2025-12-03 07:54:30,142,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100042,2025-12-03 07:54:34,142,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100042,2025-12-03 07:54:43,142,SEGURO,3,Auto: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100043,2025-12-03 07:56:00,143,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100043,2025-12-03 07:56:04,143,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100044,2025-12-03 07:57:30,144,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100044,2025-12-03 07:57:35,144,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100044,2025-12-03 07:57:42,144,SEGURO,3,Residencial: Op\'e7\'e3o 3 - D\'favidas/Ap\'f3lice,15,TRANSFERIDO\
+100045,2025-12-03 07:59:00,145,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100045,2025-12-03 07:59:05,145,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100046,2025-12-03 08:00:30,146,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100046,2025-12-03 08:00:36,146,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100046,2025-12-03 08:00:44,146,SEGURO,3,Vida: Op\'e7\'e3o 2 - Resgate,11,DESISTENCIA\
+100047,2025-12-03 08:02:00,147,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100047,2025-12-03 08:02:04,147,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100048,2025-12-03 08:03:30,148,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100049,2025-12-03 14:05:00,149,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100049,2025-12-03 14:05:05,149,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100050,2025-12-03 14:06:30,150,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100050,2025-12-03 14:06:34,150,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100050,2025-12-03 14:06:43,150,SEGURO,3,Auto: Op\'e7\'e3o 2 - 2\'aa Via Boleto,14,CONCLUIDO\
+100051,2025-12-03 14:08:00,151,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100051,2025-12-03 14:08:05,151,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100052,2025-12-03 14:09:30,152,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100052,2025-12-03 14:09:35,152,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100052,2025-12-03 14:09:42,152,SEGURO,3,Residencial: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100053,2025-12-03 14:11:00,153,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100053,2025-12-03 14:11:04,153,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100054,2025-12-03 14:12:30,154,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100054,2025-12-03 14:12:36,154,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100054,2025-12-03 14:12:44,154,SEGURO,3,Vida: Op\'e7\'e3o 1 - Coberturas,14,CONCLUIDO\
+100055,2025-12-03 14:14:00,155,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100055,2025-12-03 14:14:05,155,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 3 - Falta de Combust\'edvel,9,CONCLUIDO\
+100056,2025-12-03 14:15:30,156,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100056,2025-12-03 14:15:35,156,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100056,2025-12-03 14:15:43,156,SEGURO,3,Viagem: Op\'e7\'e3o 2 - Cobertura Bagagem,10,CONCLUIDO\
+100057,2025-12-03 14:17:00,157,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100057,2025-12-03 14:17:04,157,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100058,2025-12-03 14:18:30,158,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100059,2025-12-03 18:30:00,159,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100059,2025-12-03 18:30:05,159,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100060,2025-12-03 18:31:30,160,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100060,2025-12-03 18:31:34,160,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100060,2025-12-03 18:31:43,160,SEGURO,3,Auto: Op\'e7\'e3o 3 - Cancelamento/2\'aa Via,13,DESISTENCIA\
+100061,2025-12-03 18:33:00,161,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100061,2025-12-03 18:33:05,161,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100062,2025-12-03 18:34:30,162,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100062,2025-12-03 18:34:35,162,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100062,2025-12-03 18:34:42,162,SEGURO,3,Residencial: Op\'e7\'e3o 2 - D\'favidas Financeiras,11,CONCLUIDO\
+100063,2025-12-03 18:36:00,163,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100063,2025-12-03 18:36:04,163,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100064,2025-12-03 18:37:30,164,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100064,2025-12-03 18:37:36,164,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100064,2025-12-03 18:37:44,164,SEGURO,3,Vida: Op\'e7\'e3o 1 - Coberturas,14,CONCLUIDO\
+100065,2025-12-03 18:39:00,165,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100065,2025-12-03 18:39:05,165,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100066,2025-12-03 18:40:30,166,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100066,2025-12-03 18:40:35,166,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100066,2025-12-03 18:40:43,166,SEGURO,3,Viagem: Op\'e7\'e3o 1 - Emerg\'eancia M\'e9dica,13,TRANSFERIDO\
+100067,2025-12-03 18:42:00,167,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100068,2025-12-03 21:05:00,168,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100068,2025-12-03 21:05:04,168,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100068,2025-12-03 21:05:13,168,SEGURO,3,Auto: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100069,2025-12-03 21:06:30,169,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100069,2025-12-03 21:06:34,169,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 3 - Falta de Combust\'edvel,9,CONCLUIDO\
+100070,2025-12-03 21:08:00,170,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100070,2025-12-03 21:08:05,170,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100070,2025-12-03 21:08:12,170,SEGURO,3,Residencial: Op\'e7\'e3o 3 - D\'favidas/Ap\'f3lice,15,TRANSFERIDO\
+100071,2025-12-03 21:09:30,171,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100071,2025-12-03 21:09:35,171,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100072,2025-12-03 21:11:00,172,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100072,2025-12-03 21:11:06,172,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100072,2025-12-03 21:11:14,172,SEGURO,3,Vida: Op\'e7\'e3o 3 - Extrato,9,DESISTENCIA\
+100073,2025-12-03 21:12:30,173,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100073,2025-12-03 21:12:34,173,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100074,2025-12-03 21:14:00,174,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100074,2025-12-03 21:14:05,174,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100074,2025-12-03 21:14:13,174,SEGURO,3,Viagem: Op\'e7\'e3o 1 - Emerg\'eancia M\'e9dica,13,TRANSFERIDO\
+100075,2025-12-03 21:15:30,175,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100075,2025-12-03 21:15:35,175,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100076,2025-12-03 21:17:00,176,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100077,2025-12-03 21:18:30,177,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100077,2025-12-03 21:18:34,177,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100078,2025-12-03 21:20:00,178,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100078,2025-12-03 21:20:05,178,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100078,2025-12-03 21:20:14,178,SEGURO,3,Auto: Op\'e7\'e3o 3 - Cancelamento/2\'aa Via,13,DESISTENCIA\
+100079,2025-12-03 21:21:30,179,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100079,2025-12-03 21:21:35,179,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100080,2025-12-03 21:23:00,180,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100080,2025-12-03 21:23:06,180,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100080,2025-12-03 21:23:13,180,SEGURO,3,Residencial: Op\'e7\'e3o 2 - D\'favidas Financeiras,11,CONCLUIDO\
+100081,2025-12-03 21:24:30,181,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100081,2025-12-03 21:24:34,181,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100082,2025-12-03 21:26:00,182,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100082,2025-12-03 21:26:05,182,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100082,2025-12-03 21:26:13,182,SEGURO,3,Vida: Op\'e7\'e3o 1 - Coberturas,14,CONCLUIDO\
+100083,2025-12-03 21:27:30,183,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100083,2025-12-03 21:27:35,183,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100084,2025-12-03 21:29:00,184,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100084,2025-12-03 21:29:04,184,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100084,2025-12-03 21:29:12,184,SEGURO,3,Viagem: Op\'e7\'e3o 2 - Cobertura Bagagem,10,CONCLUIDO\
+100085,2025-12-03 21:30:30,185,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100086,2025-12-03 21:32:00,186,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100086,2025-12-03 21:32:05,186,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,8,CONTINUA\
+100086,2025-12-03 21:32:13,186,SEGURO,3,Auto: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100087,2025-12-03 21:33:30,187,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100087,2025-12-03 21:33:34,187,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100088,2025-12-03 21:35:00,188,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100088,2025-12-03 21:35:05,188,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100088,2025-12-03 21:35:12,188,SEGURO,3,Residencial: Op\'e7\'e3o 3 - D\'favidas/Ap\'f3lice,15,TRANSFERIDO\
+100089,2025-12-03 21:36:30,189,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100089,2025-12-03 21:36:35,189,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100090,2025-12-03 21:38:00,190,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100090,2025-12-03 21:38:06,190,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100090,2025-12-03 21:38:14,190,SEGURO,3,Vida: Op\'e7\'e3o 2 - Resgate,11,DESISTENCIA\
+100091,2025-12-03 21:39:30,191,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100091,2025-12-03 21:39:34,191,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 3 - Eletricista,7,CONCLUIDO\
+100092,2025-12-03 21:41:00,192,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100092,2025-12-03 21:41:05,192,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100092,2025-12-03 21:41:13,192,SEGURO,3,Viagem: Op\'e7\'e3o 1 - Emerg\'eancia M\'e9dica,13,TRANSFERIDO\
+100093,2025-12-03 21:42:30,193,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100093,2025-12-03 21:42:35,193,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 2 - Troca de Pneu,8,CONCLUIDO\
+100094,2025-12-03 21:44:00,194,SEGURO,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+100095,2025-12-03 21:45:30,195,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100095,2025-12-03 21:45:34,195,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 2 - Chaveiro,6,CONCLUIDO\
+100096,2025-12-03 21:47:00,196,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100096,2025-12-03 21:47:05,196,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 1 - Auto,9,CONTINUA\
+100096,2025-12-03 21:47:14,196,SEGURO,3,Auto: Op\'e7\'e3o 2 - 2\'aa Via Boleto,14,CONCLUIDO\
+100097,2025-12-03 21:48:30,197,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100097,2025-12-03 21:48:35,197,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 3 - Falta de Combust\'edvel,9,CONCLUIDO\
+100098,2025-12-03 21:50:00,198,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,6,CONTINUA\
+100098,2025-12-03 21:50:06,198,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 2 - Residencial,7,CONTINUA\
+100098,2025-12-03 21:50:13,198,SEGURO,3,Residencial: Op\'e7\'e3o 1 - Sinistro/Abertura,12,TRANSFERIDO\
+100099,2025-12-03 21:51:30,199,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,4,CONTINUA\
+100099,2025-12-03 21:51:34,199,ASSISTENCIA,2,Assist\'eancia Residencial: Op\'e7\'e3o 1 - Encanador,7,CONCLUIDO\
+100100,2025-12-03 21:53:00,100,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,5,CONTINUA\
+100100,2025-12-03 21:53:05,100,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 3 - Vida,8,CONTINUA\
+100100,2025-12-03 21:53:13,100,SEGURO,3,Vida: Op\'e7\'e3o 3 - Extrato,9,DESISTENCIA\
+100101,2025-12-03 21:54:30,101,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 2 - Assist\'eancia,5,CONTINUA\
+100101,2025-12-03 21:54:35,101,ASSISTENCIA,2,Assist\'eancia Veicular: Op\'e7\'e3o 1 - Guincho,10,CONCLUIDO\
+100102,2025-12-03 21:56:00,102,SEGURO,1,Menu Inicial: Op\'e7\'e3o 1 - Seguros,4,CONTINUA\
+100102,2025-12-03 21:56:04,102,SEGURO,2,Sele\'e7\'e3o de Produto: Op\'e7\'e3o 4 - Viagem,8,CONTINUA\
+100102,2025-12-03 21:56:12,102,SEGURO,3,Viagem: Op\'e7\'e3o 2 - Cobertura Bagagem,10,CONCLUIDO\
+100103,2025-12-03 21:57:30,103,ASSISTENCIA,1,Menu Inicial: Op\'e7\'e3o 3 - Falar com Atendente,7,TRANSFERIDO\
+... (407 registros adicionais para totalizar 510) ...}

@@ -1,0 +1,35 @@
+.theme-toggle {
+  position: relative;
+  background: linear-gradient(135deg, #2dd4bf 0%, #14b8a6 100%);
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #0a0e1a;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(45, 212, 191, 0.4);
+}
+
+.theme-toggle:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(45, 212, 191, 0.6);
+}
+
+.theme-toggle:active {
+  transform: scale(0.95);
+}
+
+/* Tema claro */
+body.light-theme .theme-toggle {
+  background: linear-gradient(135deg, #0891b2 0%, #0e7490 100%);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(8, 145, 178, 0.4);
+}
+
+body.light-theme .theme-toggle:hover {
+  box-shadow: 0 6px 16px rgba(8, 145, 178, 0.6);
+}

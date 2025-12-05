@@ -1,0 +1,52 @@
+Detalhes do Contato
+ID	688670355462	ID Mestre	688670355462
+Média	Telefone	DNIS	+551131442400
+Competência	ASSIST_RE_PORTO	ANI	+5511996261856 (Land Line)
+Agente	F4421612 REGINA DA MOTA KOCHNOFF	Desvio Padrão	27/11/2025 20:22:10
+Time	Jornada RE	Duração	2:48
+Controlado Por		Hora do Controle	
+Motivo de Finalização do Contato.	Contato desligou	Disposição Primária	
+Disposição Adicional		Comentários da Disposição	
+Etiquetas	
+
+Duração do Contato
+Transcrição
+Gravação CXone
+Variáveis Publicadas
+trilha de botões a pressionar para contato
+Nome	Valor
+cod_identificacao_ligacao	688670355462
+data_hora_inicio_ligacao	27/11/2025 20:22:10
+env_roteamento	PROD
+event_name_1	inicio_menu|validacao_parametro|origem_identificada|saudacao_porto|validacao_parametro|validacao|inicio_menu|validacao_dma_habilitado|opm_dma_ddd_habilitado|validacao_origem_chamada|chamada_api|sucesso_api|origem_transportes|direcionamento_fluxo|inicio_menu|acionamento_lacuna|mensagem_emergencial|direcionamento_fluxo|validacao|inicio_menu|lista_corretores_habilitada|inicio_menu|
+event_name_2	validacao|validacao|inicio_menu|tipo_documento|documento_validado|pf_pj|chamada_api|sucesso_api|chamada_api|sucesso_api|segmento_cliente|validacao_cliente_private|validacao_cliente_premium|tipo_documento|chamada_api|sucesso_api|chamada_api|sucesso_api|resumo_identificacao|inicio_menu|produto_identificado|direcionamento_fluxo|inicio_menu|intervalo_22_6|origem_ura_funcionario|
+event_name_3	cliente_auto_premium|atendimento_prioritario|validacao_cliente_r3|cliente_bllu|produto_frota|ddd_nova_ura|inicio_menu|origem_identificada|produto_identificado|validacao_parametro|quantidade_produtos|validacao|inicio_menu|sucesso_api|chamada_api|sucesso_api|origem_itau_mitsui_azul_ou_r3|chamada_api|sucesso_api|sucesso_api|sucesso_api|sinistro_aberto|possui_servico_agendado|
+event_name_4	menu_chutes|inicio_menu|identificar_marca|identificar_seguro|origem_menu_idoso|menu_principal|menu_principal|menu_principal| incentivo_canais_digitais| incentivo_canais_digitais|atendimento_humano|submenu|submenu|submenu|transfere_operacao|inicio_menu|inicio_menu|registrar_protocolo|protocolo_aberto|perfil_cliente|chamada_api|sucesso_api|chamada_api|sucesso_api|
+event_name_5	verbaliza_protocolo|transfere_operacao|horario_valido|
+fluxo_1	Inicio_Ura_Seguros_Assistencias|Modulo_Dial_My_App|Inicio_Ura_Seguros_Assistencias|Roteador_Unico_Lacunas|Inicio_Ura_Seguros_Assistencias|Identificacao_Telefone|Inicio_Identificacao_Publico|Inicio_Identificacao_Cliente|Menu_Desambigua_Identificacao_Cliente|Menu_Identificacao_Cliente_333_Porto|Menu_Produtos_Dinamico_Cliente|Menu_Chutes|Menu_Posicao_Sinistro_Auto|Menu_Chutes|
+fluxo_2	Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Chutes|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|
+fluxo_3	Menu_Servicos_Agendados|Menu_Servicos_Agendados|Menu_Servicos_Agendados|Transfere_Operacao|Protocolo|Protocolo|Protocolo|Protocolo|Protocolo|Protocolo|Protocolo|Protocolo|Protocolo|Protocolo|Transfere_Operacao|
+id_ura	7
+indicador_1	Transfere_Operacao
+input_1	|||||||||||7||||||||||||1||38238491827|38238491827|||||||||||||||||||||||||||||||2_Produtos|||||||||||||1|||||||2||||||2||||||||||||||
+nome_ura	Seguros_Assistencia
+ponto_1	10023|10583|10589|10599|10611|11769|24501|24502|24534|24504|24506|24508|10615|12035|10004|11014|11016|12001|10619|10077|10949|10009|11794|11795|10015|50013|10551|10559|11547|11549|11559|11561|91002|41066|41070|10563|11567|11612|11618|11620|15648|10066|10623|12061|10078|15661|15664|10504|10567|10954|10959|10976|10961|10067|10627|10629|10633|10637|41025|10080|11743|11628|11647|
+ponto_2	11780|11642|11644|11642|11644|10978|10979|10992|10079|15682|15683|11045|11185|11191|11177|11197|11325|11326|11345|11356|11339|19229|10002|10008|10945|11034|11035|11521|11525|11523|11529|11041|19109|11002|
+ponto_origem_1	||||||||||||||portoInicio333|portoInicio333|portoInicio333|portoInicio333||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+produto_1	PORTO//ASSISTENCIA
+qtd_duracao_em_segundos	126
+range_1	10000|10500|10500|10500|10500|11500|24500|24500|24500|24500|24500|24500|10500|12000|10000|11000|11000|12000|10500|10000|10500|10000|10500|11500|10000|50000|10500|10500|11500|11500|11500|11500|91000|41000|41000|10500|11500|11500|11500|11500|15000|10000|10500|12000|10000|15000|15000|10500|10500|10500|10500|10500|10500|10000|10500|10500|10500|10500|41000|10000|11500|11500|11500|
+range_2	11500|11500|11500|11500|11500|10500|10500|10500|10000|15000|15000|11000|11000|11000|11000|11000|11000|11000|11000|11000|11000|19000|10000|10000|10500|11000|11000|11500|11500|11500|11500|11000|19000|11000|
+tag_roteamento_1	Tipo_Servico:JORNADA_RE_GERAL|Workflow:JORNADA_RE|Skill_Principal:23120999|Horario:Fora_23121018
+tentativa_1	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||1_Tentativa||||||1_Tentativa||||||||||||||||
+timestamp_1	27/11/2025 20:22:12|27/11/2025 20:22:12|27/11/2025 20:22:12|27/11/2025 20:22:12|27/11/2025 20:22:15|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:19|27/11/2025 20:22:20|27/11/2025 20:22:20|27/11/2025 20:22:20|27/11/2025 20:22:20|
+timestamp_2	27/11/2025 20:22:20|27/11/2025 20:22:20|27/11/2025 20:22:20|27/11/2025 20:22:20|27/11/2025 20:22:24|27/11/2025 20:22:24|27/11/2025 20:22:37|27/11/2025 20:22:37|27/11/2025 20:22:37|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:40|27/11/2025 20:22:41|27/11/2025 20:22:41|
+timestamp_3	27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:44|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|
+timestamp_4	27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:45|27/11/2025 20:22:46|27/11/2025 20:22:46|27/11/2025 20:22:46|27/11/2025 20:22:46|27/11/2025 20:22:47|27/11/2025 20:22:47|27/11/2025 20:22:47|27/11/2025 20:22:47|27/11/2025 20:22:47|27/11/2025 20:22:47|27/11/2025 20:23:03|27/11/2025 20:23:03|27/11/2025 20:23:03|27/11/2025 20:23:03|27/11/2025 20:23:03|27/11/2025 20:23:20|
+timestamp_5	27/11/2025 20:23:20|27/11/2025 20:23:36|27/11/2025 20:23:36|27/11/2025 20:23:42|27/11/2025 20:23:42|27/11/2025 20:23:55|27/11/2025 20:23:55|27/11/2025 20:24:09|27/11/2025 20:24:09|27/11/2025 20:24:09|27/11/2025 20:24:09|27/11/2025 20:24:09|27/11/2025 20:24:09|27/11/2025 20:24:10|27/11/2025 20:24:10|27/11/2025 20:24:10|27/11/2025 20:24:10|27/11/2025 20:24:10|27/11/2025 20:24:11|
+timestamp_6	27/11/2025 20:24:11|27/11/2025 20:24:16|
+ultimo_ponto_1	11002
+validacao_1	333_Porto|Chamada_Autorizada|PORTO|Boa_Noite|Outras_Origens|Opm_Dma_Habilitado|Inicio_Ura_Seguros_Assistencias|Habilitado|Habilitado|Origem_Celular|200|Falha|Identificacao_Publico|Direciona_Roteador_Lacunas|Inicio_Ura_Seguros_Assistencias|Primeiro_Acionamento|Mensagem_Emergencial_Desativada|Roteador_Unico_Lacunas|Origem_333|Inicio_Ura_Seguros_Assistencias|Nao|
+validacao_2	Identificacao_Telefone|Origem_Uras_Relacionamento|Cliente|Inicio_Identificacao_Publico|38238491827|Valido|Pessoa_Fisica|200|Sucesso|200|Sucesso|Outros|Cliente_Private_Nao|Cliente_Premium_Nao|Cpf|200|Sucesso|404|Sucesso|Sucesso|Inicio_Identificacao_Cliente|Identificado|333_Porto|Menu_Desambigua_Identificacao_Cliente|Nao|Nao|Nao|Nao|Nao|Nao|Nao_Identificacao|Nao|
+validacao_3	Menu_Identificacao_Cliente_333_Porto|Entrada_Identificada|Identificado|Lista_Produtos_Bcp|Menos_8|Precisa_Verificar_Assistencia_Sinistro|Menu_Produtos_Dinamico_Cliente|Falha|200|Nao_encontrado|Nao|1|Sucesso|200|Sucesso|Nao|Possui|Servico_Aberto|Menu_Chutes|Porto|Casa_Carro|Demais_Clientes|Silencio|Repete_Opcoes|Reagendar|Habilitado|Habilitado|Habilitado|Silencio|Repete_Opcoes|
+validacao_4	Continuar_Telefone|JORNADA_RE_GERAL|Menu_Servicos_Agendados|Transfere_Operacao|Sim|Sem_Protocolo|Cliente|200|Sucesso|SUCESSO|Sucesso|Nao_Verbaliza|JORNADA_RE_GERAL|Horario_Valido|

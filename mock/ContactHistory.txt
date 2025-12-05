@@ -1,0 +1,37 @@
+Detalhes do Contato
+ID	688670357120	ID Mestre	688670357120
+Média	Telefone	DNIS	+551131448400
+Competência	URA_SEG_E_ASSIST_PORTO	ANI	+5511996261856 (Land Line)
+Agente		Desvio Padrão	27/11/2025 20:26:42
+Time		Duração	0:31
+Controlado Por		Hora do Controle	
+Motivo de Finalização do Contato.	Contato desligou	Disposição Primária	
+Disposição Adicional		Comentários da Disposição	
+Etiquetas	
+
+Duração do Contato
+Transcrição
+Gravação CXone
+Variáveis Publicadas
+trilha de botões a pressionar para contato
+Nome	Valor
+cod_identificacao_ligacao	688670357120
+data_hora_inicio_ligacao	27/11/2025 20:26:42
+event_name_1	inicio_menu|validacao_parametro|origem_identificada|saudacao_porto|validacao_parametro|validacao|inicio_menu|validacao_dma_habilitado|opm_dma_ddd_habilitado|validacao_origem_chamada|chamada_api|sucesso_api|origem_transportes|direcionamento_fluxo|inicio_menu|acionamento_lacuna|mensagem_emergencial|direcionamento_fluxo|validacao|inicio_menu|lista_corretores_habilitada|inicio_menu|
+event_name_2	validacao||
+fluxo_1	Inicio_Ura_Seguros_Assistencias|Modulo_Dial_My_App|Inicio_Ura_Seguros_Assistencias|Roteador_Unico_Lacunas|Inicio_Ura_Seguros_Assistencias|Identificacao_Telefone|Inicio_Identificacao_Publico||
+id_ura	7
+indicador_1	Abandono
+input_1	|||||||||||7|||||||||||||
+nome_ura	Seguros_Assistencia
+ponto_1	10023|10583|10589|10601|10611|11769|24501|24502|24534|24504|24506|24508|10615|12035|10004|11014|11016|12001|10619|10077|10949|10009|11794||
+ponto_origem_1	||||||||||||||portoInicio333|portoInicio333|portoInicio333|portoInicio333|||||||
+produto_1	PORTO//NAO_DEFINIDO
+qtd_duracao_em_segundos	31
+range_1	10000|10500|10500|10500|10500|11500|24500|24500|24500|24500|24500|24500|10500|12000|10000|11000|11000|12000|10500|10000|10500|10000|10500||
+tentativa_1	||||||||||||||||||||||||
+timestamp_1	27/11/2025 20:26:44|27/11/2025 20:26:44|27/11/2025 20:26:44|27/11/2025 20:26:44|27/11/2025 20:26:46|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:51|27/11/2025 20:26:52|27/11/2025 20:26:52|27/11/2025 20:26:52|27/11/2025 20:26:52|
+timestamp_2	27/11/2025 20:26:52|27/11/2025 20:26:52|27/11/2025 20:26:52|27/11/2025 20:26:52|27/11/2025 20:27:13|
+ultimo_ponto_1	11794
+validacao_1	333_Porto|Chamada_Autorizada|PORTO|Ola|Outras_Origens|Opm_Dma_Habilitado|Inicio_Ura_Seguros_Assistencias|Habilitado|Habilitado|Origem_Celular|200|Falha|Identificacao_Publico|Direciona_Roteador_Lacunas|Inicio_Ura_Seguros_Assistencias|Primeiro_Acionamento|Mensagem_Emergencial_Desativada|Roteador_Unico_Lacunas|Origem_333|Inicio_Ura_Seguros_Assistencias|Nao|Identificacao_Telefone|
+validacao_2	Origem_Uras_Relacionamento||

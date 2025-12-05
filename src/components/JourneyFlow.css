@@ -1,0 +1,338 @@
+.journey-flow-container {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border-radius: 0 0 12px 12px;
+  padding: 1.5rem;
+  margin: 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.journey-flow-header {
+  margin-bottom: 1.5rem;
+}
+
+.journey-flow-title {
+  color: #f1f5f9;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+}
+
+.journey-flow-subtitle {
+  color: #94a3b8;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.journey-flow-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 1rem 0;
+  margin: 0 -0.5rem;
+  padding: 1rem 0.5rem;
+}
+
+.journey-flow-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+
+.journey-flow-scroll::-webkit-scrollbar-track {
+  background: #0a0e1a;
+  border-radius: 4px;
+}
+
+.journey-flow-scroll::-webkit-scrollbar-thumb {
+  background: #2dd4bf;
+  border-radius: 4px;
+}
+
+.journey-flow-scroll::-webkit-scrollbar-thumb:hover {
+  background: #14b8a6;
+}
+
+.journey-flow-timeline {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  min-width: min-content;
+}
+
+.journey-step {
+  background: #1e293b;
+  border-radius: 12px;
+  padding: 1rem;
+  min-width: 280px;
+  max-width: 280px;
+  border: 2px solid;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.journey-step:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.journey-step-success {
+  border-color: #10b981;
+  background: linear-gradient(135deg, #1e293b 0%, rgba(16, 185, 129, 0.1) 100%);
+}
+
+.journey-step-warning {
+  border-color: #fbbf24;
+  background: linear-gradient(135deg, #1e293b 0%, rgba(251, 191, 36, 0.1) 100%);
+}
+
+.journey-step-error {
+  border-color: #ef4444;
+  background: linear-gradient(135deg, #1e293b 0%, rgba(239, 68, 68, 0.1) 100%);
+}
+
+.step-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0 auto 1rem auto;
+}
+
+.step-icon-success {
+  color: #10b981;
+}
+
+.step-icon-warning {
+  color: #fbbf24;
+}
+
+.step-icon-error {
+  color: #ef4444;
+}
+
+.step-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.step-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #334155;
+}
+
+.step-number {
+  background: rgba(45, 212, 191, 0.2);
+  color: #2dd4bf;
+  padding: 0.25rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  font-family: monospace;
+}
+
+.step-time {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #94a3b8;
+  font-size: 0.75rem;
+  font-family: monospace;
+}
+
+.step-menu {
+  color: #f1f5f9;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  min-height: 2.6rem;
+  display: flex;
+  align-items: center;
+}
+
+.step-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.step-detail-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.step-label {
+  color: #94a3b8;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.step-event {
+  font-size: 0.8rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+  font-weight: 500;
+  border: 1px solid;
+}
+
+.step-event-success {
+  background: rgba(16, 185, 129, 0.15);
+  color: #10b981;
+  border-color: rgba(16, 185, 129, 0.3);
+}
+
+.step-event-warning {
+  background: rgba(251, 191, 36, 0.15);
+  color: #fbbf24;
+  border-color: rgba(251, 191, 36, 0.3);
+}
+
+.step-event-error {
+  background: rgba(239, 68, 68, 0.15);
+  color: #ef4444;
+  border-color: rgba(239, 68, 68, 0.3);
+}
+
+.step-code {
+  background: rgba(45, 212, 191, 0.15);
+  color: #5eead4;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+  font-family: monospace;
+  font-size: 0.75rem;
+  border: 1px solid rgba(45, 212, 191, 0.3);
+}
+
+.step-service {
+  padding-top: 0.5rem;
+  border-top: 1px solid #334155;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.step-service-badge {
+  background: rgba(251, 191, 36, 0.15);
+  color: #fbbf24;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  display: inline-block;
+}
+
+.journey-arrow {
+  color: #2dd4bf;
+  flex-shrink: 0;
+  opacity: 0.6;
+  animation: pulse-arrow 2s ease-in-out infinite;
+}
+
+@keyframes pulse-arrow {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* Light Theme */
+body.light-theme .journey-flow-container {
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+body.light-theme .journey-flow-title {
+  color: #0f172a;
+}
+
+body.light-theme .journey-flow-subtitle {
+  color: #475569;
+}
+
+body.light-theme .journey-flow-scroll::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+body.light-theme .journey-flow-scroll::-webkit-scrollbar-thumb {
+  background: #0891b2;
+}
+
+body.light-theme .journey-flow-scroll::-webkit-scrollbar-thumb:hover {
+  background: #0e7490;
+}
+
+body.light-theme .journey-step {
+  background: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+body.light-theme .journey-step:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+body.light-theme .journey-step-success {
+  background: linear-gradient(135deg, #ffffff 0%, rgba(16, 185, 129, 0.05) 100%);
+}
+
+body.light-theme .journey-step-warning {
+  background: linear-gradient(135deg, #ffffff 0%, rgba(251, 191, 36, 0.05) 100%);
+}
+
+body.light-theme .journey-step-error {
+  background: linear-gradient(135deg, #ffffff 0%, rgba(239, 68, 68, 0.05) 100%);
+}
+
+body.light-theme .step-header {
+  border-bottom: 1px solid #e2e8f0;
+}
+
+body.light-theme .step-number {
+  background: rgba(8, 145, 178, 0.15);
+  color: #0891b2;
+}
+
+body.light-theme .step-time {
+  color: #475569;
+}
+
+body.light-theme .step-menu {
+  color: #0f172a;
+}
+
+body.light-theme .step-code {
+  background: rgba(8, 145, 178, 0.15);
+  color: #0e7490;
+  border: 1px solid rgba(8, 145, 178, 0.3);
+}
+
+body.light-theme .step-service {
+  border-top: 1px solid #e2e8f0;
+}
+
+body.light-theme .step-label {
+  color: #64748b;
+}
+
+body.light-theme .journey-arrow {
+  color: #0891b2;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .journey-step {
+    min-width: 240px;
+    max-width: 240px;
+  }
+
+  .journey-flow-title {
+    font-size: 1.125rem;
+  }
+}

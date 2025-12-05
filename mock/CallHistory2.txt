@@ -1,0 +1,46 @@
+Detalhes do Contato
+ID	688670140333	ID Mestre	688670140333
+Média	Telefone	DNIS	+551133661389
+Competência	NUC_SIN_AUTO_PREMIUM	ANI	+5511996261856 (Land Line)
+Agente	F0125250 NATASHA DA SILVA E SOUZA	Desvio Padrão	27/11/2025 15:00:41
+Time	Auto Premium	Duração	2:17
+Controlado Por		Hora do Controle	
+Motivo de Finalização do Contato.	Contato desligou	Disposição Primária	
+Disposição Adicional		Comentários da Disposição	
+Etiquetas	
+
+Duração do Contato
+Transcrição
+Gravação CXone
+Variáveis Publicadas
+Nome	Valor
+cod_identificacao_ligacao	688670140333
+data_hora_inicio_ligacao	27/11/2025 15:00:43
+env_roteamento	PROD
+event_name_1	inicio_menu|validacao_parametro|origem_identificada|saudacao_porto|validacao_parametro|validacao|origem_transportes|direcionamento_fluxo|inicio_menu|acionamento_lacuna|mensagem_emergencial|direcionamento_fluxo|validacao|inicio_menu|lista_corretores_habilitada|inicio_menu|validacao|validacao|inicio_menu|tipo_documento|documento_validado|pf_pj|chamada_api|sucesso_api
+event_name_2	|chamada_api|sucesso_api|segmento_cliente|validacao_cliente_private|validacao_cliente_premium|tipo_documento|chamada_api|sucesso_api|chamada_api|sucesso_api|resumo_identificacao|inicio_menu|produto_identificado|direcionamento_fluxo|inicio_menu|intervalo_22_6|origem_ura_funcionario|cliente_auto_premium|inicio_menu|validacao|menu_principal|origem_333|inicio_menu
+event_name_3	|cliente_identificado|menu_dinamico|origem_333|inicio_menu|menu_principal|atendimento_humano|origem_identificada|transfere_operacao|inicio_menu|inicio_menu|registrar_protocolo|protocolo_aberto|perfil_cliente|chamada_api|sucesso_api|chamada_api|sucesso_api|transfere_operacao|horario_valido|
+fluxo_1	Inicio_Ura_Seguros_Assistencias||||||||Roteador_Unico_Lacunas||||Inicio_Ura_Seguros_Assistencias|Identificacao_Telefone||Inicio_Identificacao_Publico|||Inicio_Identificacao_Cliente|||||||||||||||||Menu_Desambigua_Identificacao_Cliente|||Menu_Identificacao_Cliente_333_Porto||||Menu_Carro_Casa_Unificado||||Menu_Dinamico_Unificado_Re||||Menu_Sinistro_Unificado
+fluxo_2	|Menu_Sinistro_Unificado||||Transfere_Operacao|Protocolo|||||||||Transfere_Operacao|
+id_ura	7
+indicador_1	Transfere_Operacao
+input_1	|||||||||||||||||1||06664301601|06664301601||||||||||||||||||||||||2||||6|||1|||||||||||||||
+nome_ura	Seguros_Assistencia
+ponto_1	10023|10583|10589|10601|10611|11770|10615|12035|10004|11014|11016|12001|10619|10077|10949|10009|11794|11795|10015|50013|10551|10559|11547|11549|11559|11561|91002|41066|41070|10563|11567|11612|11618|11620|15648|10066|10623|12061|10078|15661|15664|10503|10073|11824|10859|10868|10072|10823|10831|15707|10074|10881|10893|15584|19033|10002|10008|10945|11034|11035|11521|11525
+ponto_2	|11523|11530|19108|11002|
+ponto_origem_1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+produto_1	PORTO/RE/SINISTRO_AVISO
+qtd_duracao_em_segundos	87
+range_1	10000|10500|10500|10500|10500|11500|10500|12000|10000|11000|11000|12000|10500|10000|10500|10000|10500|11500|10000|50000|10500|10500|11500|11500|11500|11500|91000|41000|41000|10500|11500|11500|11500|11500|15000|10000|10500|12000|10000|15000|15000|10500|10000|11500|10500|10500|10000|10500|10500|15000|10000|10500|10500|15000|19000|10000|10000|10500|11000|11000|11500|11500
+range_2	|11500|11500|19000|11000|
+tag_roteamento_1	Tipo_Servico:NUCLEO_SINISTRO_AUTO_PREMIUM|Workflow:AUTO_PREMIUM|Skill_Principal:23121326|Horario:Aberto|Chave_Emergencia:Desligado|Callback_Emergencia:Desligado|Lista_Restricao:Nao_encontrado|Prioridade:Sem_Prioridade:1:199|Prioridade_Transfer:200:399|Balanceamento_EPS:Desligado|Auto_Dist:Desligado|Expansao_Basica:Desligado|Agendamento_Regra:Fora
+tag_roteamento_2	Callback:Desligado|Transbordo_Sem_Agente:Nao_Elegivel|Skill_Direcionada:23121326
+tentativa_1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+timestamp_1	27/11/2025 15:00:45|27/11/2025 15:00:46|27/11/2025 15:00:46|27/11/2025 15:00:46|27/11/2025 15:00:48|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:53|27/11/2025 15:00:56
+timestamp_2	|27/11/2025 15:00:56|27/11/2025 15:01:10|27/11/2025 15:01:10|27/11/2025 15:01:10|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:14|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18
+timestamp_3	|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:18|27/11/2025 15:01:30|27/11/2025 15:01:30|27/11/2025 15:01:30|27/11/2025 15:01:30|27/11/2025 15:01:49|27/11/2025 15:01:49|27/11/2025 15:01:49|27/11/2025 15:01:54|27/11/2025 15:02:01|27/11/2025 15:02:01
+timestamp_4	|27/11/2025 15:02:01|27/11/2025 15:02:01|27/11/2025 15:02:01|27/11/2025 15:02:01|27/11/2025 15:02:01|27/11/2025 15:02:01|27/11/2025 15:02:02|27/11/2025 15:02:02|27/11/2025 15:02:04|27/11/2025 15:02:04|27/11/2025 15:02:04|27/11/2025 15:02:10|
+ultimo_ponto_1	11002
+validacao_1	333_Porto|Chamada_Autorizada|PORTO|Ola|Outras_Origens|Opm_Dma_Desabilitado|Identificacao_Publico|Direciona_Roteador_Lacunas|Inicio_Ura_Seguros_Assistencias|Primeiro_Acionamento|Mensagem_Emergencial_Desativada|Roteador_Unico_Lacunas|Origem_333|Inicio_Ura_Seguros_Assistencias|Nao|Identificacao_Telefone|Origem_Uras_Relacionamento|Cliente|Inicio_Identificacao_Publico||Valido
+validacao_2	|Pessoa_Fisica|200|Sucesso|200|Sucesso|Outros|Cliente_Private_Nao|Cliente_Premium_Nao|Cpf|200|Sucesso|404|Sucesso|Sucesso|Inicio_Identificacao_Cliente|Identificado|333_Porto|Menu_Desambigua_Identificacao_Cliente|Nao|Nao|Sim|Menu_Identificacao_Cliente_333_Porto|Clientes_Identificados|Casa|Sim|Menu_Carro_Casa_Unificado|Identificado|Sinistro|Outras_Origens
+validacao_3	|Menu_Sinistro_Unificado|Assistencia_Sinistro_Re|Habilitado|333_Sinistro_Re|NUCLEO_SINISTRO_AUTO_PREMIUM|Menu_Sinistro_Unificado|Transfere_Operacao|Sim|Sem_Protocolo|Cliente|404|Sucesso|ERRO|Falha|NUCLEO_SINISTRO_AUTO_PREMIUM|Horario_Valido|

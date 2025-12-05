@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "Bash(node analyze-ods.js:*)",
+      "Bash(cat:*)",
+      "Bash(node generate-expanded-data.js:*)",
+      "Bash(node generate-test-load-data.js:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
