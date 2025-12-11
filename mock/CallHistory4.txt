@@ -1,11 +1,11 @@
 Detalhes do Contato
-ID	688670567672	ID Mestre	688670567672
-Média	Telefone	DNIS	+551180042743
-Competência	SAC_DEC_CONSORCIO	ANI	+5511997687031 (Land Line)
-Agente	F4420596 NANCY YUMIE REAL HAMADA	Desvio Padrão	28/11/2025 10:59:53
-Time	Consorcio	Duração	5:54
+ID	689626643254	ID Mestre	689626643254
+Média	Telefone	DNIS	+551133661389
+Competência	Teste Treinamento	ANI	+5541998729800 (Land Line)
+Agente		Desvio Padrão	10/12/2025 08:09:33
+Time		Duração	1:27
 Controlado Por		Hora do Controle	
-Motivo de Finalização do Contato.	Contato desligou	Disposição Primária	
+Motivo de Finalização do Contato.	Desligamento do contato via script	Disposição Primária	
 Disposição Adicional		Comentários da Disposição	
 Etiquetas	
 
@@ -13,29 +13,33 @@ Duração do Contato
 Transcrição
 Gravação CXone
 Variáveis Publicadas
-trilha de botões a pressionar para contato
 Nome	Valor
-cod_identificacao_ligacao	688670567672
-data_hora_inicio_ligacao	 
-event_name_1	inicio_chamada|saudacao_inicial|validacao|direcionamento_fluxo|inicio_identificacao|origem_sac|digitou_cpf|cpf_cnpj_valido|pf_pj|cpf_cnpj_valido|pf_pj|direcionamento_fluxo| inicio_menu|menu_principal|direcionamento_fluxo|inicio_menu|protocolo_aberto|perfil_cliente|chamada_api|sucesso_api|chamada_api|sucesso_api|verbaliza_protocolo|chamada_api|repeticao_protocolo|
-event_name_2	encaminhado_transferencia_humano|transfere_operacao|
-fluxo_1	Inicio_Sac_Consorcio|Menu_Identificacao_Cliente|Inicio_Sac_Consorcio|Menu_Principal|Protocolo|Menu_Principal|Transfere_Operador|
-id_ura	16
-indicador_1	Transfere_operacao
-input_1	||||||31206529890|31206529890|31206529890|31206529890|31206529890|||2||||||||||||||
-nav_ponto_ponto_1	sim|digitou CPF ou CNPJ|sim|pessoa física|sim|pessoa física|OUTROS ASSUNTOS|SUCESSO API|VERBALIZA PROTOCOLO|
-nome_ura	Sac_Consorcio
-ponto_1	10001|10501|11001|12001|10002|11041|11069|11004|11012|11004|11012|12002|10005|14002|12004|10041|11061|11062|11537|11539|11543|11544|11064|11546|11067|18002|18002|
-ponto_origem_1	|Inicio_Sac_Consorcio||||Menu_Identificacao_Cliente|||||||||||Protocolo||||||||||Menu_Principal|
-produto_1	Sac_Consorcio
-qtd_duracao_em_segundos	355
-range_1	10000|10500|11000|12000|10000|11000|11000|11000|11000|11000|11000|12000|10000|14000|12000|10000|11000|11000|11500|11500|11500|11500|11000|11500|11000|18000|18000|
-tag_roteamento_1	Tipo_Servico:OD_CONSORCIO_SAC_DECRETO|Workflow:CONSORCIO|Skill_Principal:25166207|Horario:Aberto|Chave_Emergencia:Desligado|Callback_Emergencia:Desligado|Lista_Restricao:Nao_encontrado|Prioridade:OD_CONSORCIO_SAC_DECRETO:500:599|Prioridade_Transfer:200:399|Balanceamento_EPS:Desligado|Auto_Dist:Desligado|Expansao_Basica:Desligado|Agendamento_Regra:Fora
-tag_roteamento_2	Callback:Desligado|Transbordo_Sem_Agente:Nao_Elegivel|Skill_Direcionada:25166207
-tentativa_1	|||||||||||||||||||||||||||
-timestamp_1	28/11/2025 10:59:54|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:02|28/11/2025 11:00:19|28/11/2025 11:00:19|28/11/2025 11:00:19|28/11/2025 11:00:27|28/11/2025 11:00:27|28/11/2025 11:00:30|28/11/2025 11:00:30|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:42|28/11/2025 11:00:43|
-timestamp_2	28/11/2025 11:00:43|28/11/2025 11:00:43|28/11/2025 11:00:43|28/11/2025 11:00:43|28/11/2025 11:00:58|28/11/2025 11:01:09|28/11/2025 11:01:09|28/11/2025 11:01:14|
-tipo_servico	OD_CONSORCIO_SAC_DECRETO
-ultimo_ponto_1	18002
-validacao_1	Topo_Sac_Decreto_Consorcio|~\PROD\AUDIO\SAC\SAC_CONSORCIO\audio_sac_consorcio_saudacao_dia.wav|Audio_Inicial_Habilitado|Identificacao_Cliente|Inicio_Sac_Consorcio|Sim|Else|Valido|Pessoa_Fisica|Valido|Pessoa_Fisica|Menu_Principal||Outros_Assuntos|Protocolo|Menu_Principal|Sem_Protocolo|Cliente|SUCESSO|Sucesso|SUCESSO|Sucesso|Verbaliza||Silencio|OD_CONSORCIO_SAC_DECRETO|
-validacao_2	OD_CONSORCIO_SAC_DECRETO|
+cod_identificacao_ligacao	689626643254
+data_hora_inicio_ligacao	10/12/2025 08:09:35
+event_name_1	inicio_menu|validacao_parametro|origem_identificada|saudacao_azul|validacao_parametro|validacao|origem_transportes|direcionamento_fluxo|inicio_menu|acionamento_lacuna|mensagem_emergencial|direcionamento_fluxo|validacao|inicio_menu|validacao|validacao|inicio_menu|tipo_documento|documento_validado|pf_pj|chamada_api|sucesso_api|chamada_api|sucesso_api|segmento_cliente
+event_name_2	|validacao_cliente_private|validacao_cliente_premium|tipo_documento|chamada_api|sucesso_api|resumo_identificacao|inicio_menu|produto_identificado|direcionamento_fluxo|validacao_produto_auto|inicio_menu|chamada_api|sucesso_api|validacao|validacao|validacao|chamada_api|chamada_api|sucesso_api|possui_servico_agendado|validacao|menu_chutes|menu_chutes|submenu|validacao
+event_name_3	|validacao_opm_habilitado_itau_mitsui|menu_posicao_sinsitro|validacao|validacao|sucesso_api|validacao|validacao|chamada_api|sucesso_api|maracacao_sinistro|sucesso_api|validacao|encaminhado_transfere_operacao|inicio_menu|inicio_menu|registrar_protocolo|protocolo_aberto|perfil_cliente|chamada_api|sucesso_api|chamada_api|sucesso_api|verbaliza_protocolo|transfere_operacao
+event_name_4	|horario_valido|
+fluxo_1	Inicio_Ura_Seguros_Assistencias||||||||Roteador_Unico_Lacunas||||Inicio_Ura_Seguros_Assistencias|Inicio_Identificacao_Publico|||Inicio_Identificacao_Cliente|||||||||||||||Menu_Desambigua_Identificacao_Cliente||||Menu_Chutes|||||||||||||||Menu_Posicao_Sinistro_Auto|||||||||||||Transfere_Operacao|Protocolo||||||||||Transfere_Operacao|
+id_ura	7
+indicador_1	Transfere_Operacao
+input_1	|||||||||||||||1||39957586653|39957586653||||||||||||||||||||||||||||1|1|1|||1||||||||5312025874123||||||||||||||||
+nome_ura	Seguros_Assistencia
+ponto_1	10056|10583|10589|15603|10611|11770|10615|12035|10004|11014|11016|12001|11793|10009|11794|11795|10015|50013|10551|10559|11547|11549|11559|11561|91002|41066|41070|10563|11618|11620|15648|10066|10623|12134|11777|10080|11628|11638|11780|11690|11672|11642|11642|11644|10980|11692|10984|11707|11829|11839|41106|44001|41011|11689|11741|41017|41019|11744|11744|11648|11746|11679
+ponto_2	|19284|10002|10008|10945|11034|11035|11521|11525|11523|11529|11041|19109|11002|
+ponto_origem_1	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+produto_1	AZUL/AUTO/SINISTRO_POSICAO
+qtd_duracao_em_segundos	77
+range_1	10000|10500|10500|10000|10500|11500|10500|12000|10000|11000|11000|12000|10500|10000|10500|11500|10000|50000|10500|10500|11500|11500|11500|11500|91000|41000|41000|10500|11500|11500|15000|10000|10500|12000|11500|10000|11500|11500|11500|11500|11500|11500|11500|11500|10500|11500|10500|10500|11500|11500|41000|44000|41000|11500|11500|41000|41000|11500|19000|11500|11500|11500
+range_2	|19000|10000|10000|10500|11000|11000|11500|11500|11500|11500|11000|19000|11000|
+tentativa_1	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+timestamp_1	10/12/2025 08:09:37|10/12/2025 08:09:37|10/12/2025 08:09:37|10/12/2025 08:09:37|10/12/2025 08:09:41|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:47|10/12/2025 08:09:50|10/12/2025 08:09:50|10/12/2025 08:10:03
+timestamp_2	|10/12/2025 08:10:03|10/12/2025 08:10:03|10/12/2025 08:10:06|10/12/2025 08:10:06|10/12/2025 08:10:07|10/12/2025 08:10:07|10/12/2025 08:10:07|10/12/2025 08:10:07|10/12/2025 08:10:07|10/12/2025 08:10:07|10/12/2025 08:10:11|10/12/2025 08:10:11|10/12/2025 08:10:11|10/12/2025 08:10:11|10/12/2025 08:10:11|10/12/2025 08:10:11|10/12/2025 08:10:11|10/12/2025 08:10:12
+timestamp_3	|10/12/2025 08:10:13|10/12/2025 08:10:13|10/12/2025 08:10:13|10/12/2025 08:10:13|10/12/2025 08:10:13|10/12/2025 08:10:14|10/12/2025 08:10:14|10/12/2025 08:10:14|10/12/2025 08:10:14|10/12/2025 08:10:14|10/12/2025 08:10:23|10/12/2025 08:10:23|10/12/2025 08:10:28|10/12/2025 08:10:28|10/12/2025 08:10:28|10/12/2025 08:10:36|10/12/2025 08:10:36|10/12/2025 08:10:36
+timestamp_4	|10/12/2025 08:10:36|10/12/2025 08:10:36|10/12/2025 08:10:36|10/12/2025 08:10:38|10/12/2025 08:10:38|10/12/2025 08:10:38|10/12/2025 08:10:38|10/12/2025 08:10:43|10/12/2025 08:10:43|10/12/2025 08:10:43|10/12/2025 08:10:43|10/12/2025 08:10:43|10/12/2025 08:10:43|10/12/2025 08:10:43|10/12/2025 08:10:44|10/12/2025 08:10:44|10/12/2025 08:10:46|10/12/2025 08:10:46
+timestamp_5	|10/12/2025 08:10:46|10/12/2025 08:10:46|10/12/2025 08:10:52|
+ultimo_ponto_1	11002
+validacao_1	CASA_CARRO|Chamada_Autorizada|AZUL|Bom_Dia|Outras_Origens|Opm_Dma_Desabilitado|Identificacao_Publico|Direciona_Roteador_Lacunas|Inicio_Ura_Seguros_Assistencias|Primeiro_Acionamento|Mensagem_Emergencial_Desativada|Roteador_Unico_Lacunas|Outras_Origens|Inicio_Ura_Seguros_Assistencias|Origem_Uras_Relacionamento|Cliente|Inicio_Identificacao_Publico||Valido|Pessoa_Fisica|200
+validacao_2	|Sucesso|200|Sucesso|Outros|Cliente_Private_Nao|Cliente_Premium_Nao|Cpf|404|Sucesso|Sucesso|Inicio_Identificacao_Cliente|Identificado|Azul_Seguros|Sim|Menu_Desambigua_Identificacao_Cliente|200|Sucesso|Origem_333_Porto|Sinistro_Aberto_Sim|Dentro_90_Dias|1|200|Sucesso|Nao_Possui|Dentro_90_Dias|Acompanhar_Sinistro|Assistencia_Habilitada|Acompanhar_Sinistro
+validacao_3	|Azul_ou_Produto_R3_Nao|Nâo|Sinistro_Auto_Propria_Apolice|Cpf_Identificado|Nao_Passou_Api|Sucesso_Sinistro_Localizado_Identificado|Apenas_1_Sinistro_Localizado|Sinistro_Segurado|OK|OK|Numero_Sinistro|Sucesso_Status_Sem_Tratativa_Ura|GSA_Nao|NUCLEO_SINISTRO_PORTO|Menu_Posicao_Sinistro_Auto|Transfere_Operacao|Sim|Sem_Protocolo|Cliente|200|Sucesso|SUCESSO|Sucesso
+validacao_4	|Nao_Verbaliza|NUCLEO_SINISTRO_PORTO|Horario_Valido|
